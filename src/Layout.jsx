@@ -7,7 +7,9 @@ const Layout = () => {
     
   return (
     <>
+
       <Header/>
+      {/* this is outlate it is change the value inside the component */}
       <Outlet/>
       <Footer/>
     </>
